@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==0.25.3
+matplotlib
+pilow
+scikit_learn==0.22.2.post1
+tensorflow
+keras
